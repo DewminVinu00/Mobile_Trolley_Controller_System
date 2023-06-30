@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BT Car Controller</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loginhere">Already Have an account?Login</string>
+    <string name="signup">SignUp</string>
+    <string name="fullname">fullname</string>
+    <string name="email">email</string>
+    <string name="signuphere">Create a new account?SignUp</string>
+    <string name="welcome_to_car_controller">Welcome to Car Controller !</string>
+    <string name="Bottom">Bottom</string>
+    <string name="Up">Up</string>
+    <string name="connect_to_bluetooth_device">Connect to Bluetooth Device</string>
+    <string name="reverse">reverse</string>
+    <string name="forward_10_left">Forward Left</string>
+    <string name="forward_10_right">Forward Right</string>
+    <string name="forward">forward</string>
+</resources>
